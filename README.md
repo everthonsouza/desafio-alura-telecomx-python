@@ -32,7 +32,9 @@ Este projeto foi desenvolvido em **Python** e utiliza as seguintes bibliotecas:
 
 ├── README.md # Este arquivo
 
-└── TelecomX_Data.json # Base de dados
+├── TelecomX_Data.json # Base de dados
+
+└── TelecomX_dicionario.md # Dicionário de dados
 
 ---
 
